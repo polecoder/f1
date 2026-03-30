@@ -1,6 +1,6 @@
 pdf-engine: xelatex
 metadata:
-  title: "Cálculo Diferencial e Integral en Varias Variables"
+  title: "Física 1"
   author: "Mauro Polenta Mora"
 variables:
   fontsize: 12pt
